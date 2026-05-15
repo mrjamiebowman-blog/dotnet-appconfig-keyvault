@@ -1,2 +1,2 @@
-# dotnet-appconfig-keyvault
-.NET: App Config + Key Vault
+# .NET: App Config + Key Vault
+
