@@ -1,0 +1,6 @@
+@MrJB.Api.AppConfig_HostAddress = http://localhost:5224
+
+GET {{MrJB.Api.AppConfig_HostAddress}}/data/results/
+Accept: application/json
+
+###

@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MrJB.Api.AppConfig/MrJB.Api.AppConfig.csproj" Id="e88328ef-4fc1-4cc4-a668-28880c060d52" />
+  </Folder>
+  <Folder Name="/_Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="README.md" />
+  </Folder>
+</Solution>
